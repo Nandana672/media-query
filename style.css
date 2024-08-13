@@ -1,0 +1,32 @@
+*{
+    padding: opx;
+    margin: 0px;
+
+}
+body{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(7, 96, 7);
+}
+header{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(100, 10, 28);
+    color: white;
+}
+h1{
+    text-align: center;
+    
+}
+.row{
+    width:100%;
+    height: 500px;
+    background-color: rgb(50, 204, 204);
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.col{
+    width: 400px;
+    height: 4250px;
+}
